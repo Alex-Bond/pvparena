@@ -29,7 +29,7 @@ import org.bukkit.event.player.PlayerPickupItemEvent;
 import org.bukkit.event.player.PlayerTeleportEvent;
 import org.bukkit.event.player.PlayerVelocityEvent;
 
-import com.nodinchan.ncloader.Loadable;
+import com.nodinchan.ncbukkit.loader.Loadable;
 
 /**
  * arena module class

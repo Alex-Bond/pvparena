@@ -46,63 +46,7 @@ A PVP experience enhancing plugin.
 
 === Changelog
 
-* v0.8.10.14 - revert inventory handling
-* v0.8.10.13 - change and fix update check
-* v0.8.10.12 - allow module update deactivation
-* v0.8.10.11 - properly reset inventories!
-* v0.8.10.10 - reset Potion Effects on respawn
-* v0.8.10.9 - add MultiInv compatibility
-* v0.8.10.8 - fix NPE about resetPlayer
-* v0.8.10.7 - add config setting to change default command
-* v0.8.10.6 - fix custom classes inventory handling
-* v0.8.10.5 - re-activate the escape check
-* v0.8.10.4 - fix inventory being removed for custom classes at the end...
-* v0.8.10.3 - properly ignore alpha and beta builds from update nag
-* v0.8.10.2 - fix WIN and LOSE region not triggering timers
-* v0.8.10.1 - fix spawn setting not working for some modules
-* v0.8.10.0 - add WIN and LOSE regions
-* v0.8.9.0 - finish region protection
-* v0.8.8.9 - fix Projectile Exception (Ticket 338)
-* v0.8.8.8 - fix the region selection spam
-* v0.8.8.7 - add message coloring
-* v0.8.8.6 - fix synchronisation issues
-* v0.8.8.5 - fix "youescaped" bug
-* v0.8.8.4 - fix NPE in statistics handling
-* v0.8.8.3 - fix /pa update [type]
-* v0.8.8.2 - fix /pa uninstall *
-* v0.8.8.1 - block break NPE
-* v0.8.8.0 - timer rewrite to fix many issues
-* v0.8.7.2 - fix minor display bug
-* v0.8.7.1 - fix NPE when players disconnect while being told something
-* v0.8.7.0 - add /pa update, /pa install and /pa uninstall 
-* v0.8.6.20 - fix TimerInfo visibility
-* v0.8.6.19 - support arena name guessing
-* v0.8.6.18 - enhance /pa version flexibility
-* v0.8.6.17 - give proper error when using unsupported region types
-* v0.8.6.16 - fixed other regions not being initialized properly
-* v0.8.6.15 - fixed cubic regions not being initialized properly
-* v0.8.6.14 - fixed /pa reload messing up when an arena was running
-* v0.8.6.13 - better information about missing game modes
-* v0.8.6.12 - add proper error for old pa create command
-* v0.8.6.11 - distinguish tnt block damage from player block damage
-* v0.8.6.10 - remove mobs and animals on region reset
-* v0.8.6.9 - fix spawn access (players taking the enemy flag at other positions)
-* v0.8.4.8 - add hook parseRespawn to Modules
-* v0.8.4.7 - fix woolHead support
-* v0.8.4.6 - teach the countdowns to talk! (continued)
-* v0.8.4.5 - fix the player not being reset properly after a fight
-* v0.8.4.4 - teach the countdowns to talk!
-* v0.8.4.3 - add hook to add required spawns via modules
-* v0.8.4.2 - revert hook for sabotage arena, fix Player velocity on respawn
-* v0.8.4.1 - add hook for sabotage arena, ArenaType.onEntityExplode
-* v0.8.4.0 - read default classes from config.yml, if set
-* v0.8.3.0 - add blacklist/whitelist for block breaking
-* v0.8.2.3 - fix droppings inside the spectator area
-* v0.8.2.2 - only track plugin if used (if arenas defined)
-* v0.8.2.1 - add arena wide command whitelist
-* v0.8.2.0 - rewrite in order to fix the player teleporting / ghosting issue
-* v0.8.1.0 - major fix - more to come, but this is a severe bug fix
-* v0.8.0.0 - major rewrite of player death handling, fixes many things
+* v0.9.0.0 - rewrite concerning the loader and general gamemode/module inconsistancy issues
 
 -----------------------------------------------------------------------------------------------------------------------
 

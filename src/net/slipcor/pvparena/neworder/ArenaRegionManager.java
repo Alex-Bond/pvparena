@@ -7,7 +7,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import com.nodinchan.ncloader.Loader;
+import com.nodinchan.ncbukkit.loader.Loader;
 
 import net.slipcor.pvparena.PVPArena;
 import net.slipcor.pvparena.arena.Arena;

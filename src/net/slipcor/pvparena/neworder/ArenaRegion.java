@@ -28,7 +28,7 @@ import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.entity.EntityDamageEvent.DamageCause;
 import org.bukkit.util.Vector;
 
-import com.nodinchan.ncloader.Loadable;
+import com.nodinchan.ncbukkit.loader.Loadable;
 
 /**
  * region class
