@@ -54,6 +54,12 @@ A PVP experience enhancing plugin.
 
 * teleport -> 2L -> inv save
 * inv restore -> 2L -> teleport
+* replace all gamemodes by standard modules
+* add "goals" to achieve
+** add "flag" types (wool|pumpkin|whatever)
+** add destructibles
+** add kill count calculation (lives left or frags done??)
+** add arena instances everywhere to check for necessity of checks ( oO )
 
 -----------------------------------------------------------------------------------------------------------------------
 
