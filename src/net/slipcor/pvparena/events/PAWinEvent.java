@@ -1,7 +1,6 @@
 package net.slipcor.pvparena.events;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
 
 import net.slipcor.pvparena.arena.Arena;
